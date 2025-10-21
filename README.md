@@ -25,4 +25,4 @@ Siga os passos abaixo para configurar e executar o projeto no Google Colab.
 
 **1. Clone o Repositório (Opcional, se quiser rodar localmente):**
 ```bash
-git clone https://github.com/SEU-USUARIO/agente-analise-financeira-rag.git
+git clone https://github.com/jhsribeiro/agente-analise-financeira-rag.git
